@@ -1,0 +1,5 @@
+# Fill this file out, rename it to settings.toml, and copy it with the rest of the firmware to the board
+CIRCUITPY_WIFI_SSID="your-network-name"
+CIRCUITPY_WIFI_PASSWORD="your-network-password"
+CIRCUITPY_WEB_API_PORT=80
+CIRCUITPY_WEB_PASSWORD="correcthorsebatterystaple"
